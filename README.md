@@ -5,3 +5,5 @@ This is a [transformer](http://docs.safe.com/fme/html/FME_Desktop_Documentation/
 It is intended to allow councils to automate the regular updating of data.
 
 It was developed by Matt Swards (City of Ballarat) and Will McIntosh (City of Greater Geelong), and is released under the MIT License.
+
+**[Download the connector](https://raw.githubusercontent.com/OpenCouncilData/FME-CKAN/master/publisher.fmw)**
