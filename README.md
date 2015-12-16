@@ -1,6 +1,6 @@
 ## FME-CKAN Connector
 
-This is a [transformer](http://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_Desktop_Help.htm#../Subsystems/FME_Transformers/Content/Welcome/Welcome.htm%3FTocPath%3DFME%2520Transformers%7C_____0) for FME, a data transformation engine, which allows transformed data to be published to data.gov.au.
+The CKAN Connector is a [http://safe.com](FME) workspace specifically designed for uploading data to [data.gov.au](http://data.gov.au).
 
 It is intended to allow councils to automate the regular updating of data.
 
