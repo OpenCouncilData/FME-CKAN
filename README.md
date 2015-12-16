@@ -1,6 +1,6 @@
 ## FME-CKAN Connector
 
-The CKAN Connector is a [http://safe.com](FME) workspace specifically designed for uploading data to [data.gov.au](http://data.gov.au).
+The CKAN Connector is a [FME](http://safe.com) workspace specifically designed for uploading data to [data.gov.au](http://data.gov.au).
 
 It is intended to allow councils to automate the regular updating of data.
 
